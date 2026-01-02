@@ -513,6 +513,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Misc
 * [AdvanceDLSupport](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.
+* [Replane](https://github.com/replane-dev/replane) - Dynamic configuration manager for feature flags, app settings, and operational config with version history, approvals, and realtime sync. Has a .NET SDK.
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
 * [AspNetCore Extension Library](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
